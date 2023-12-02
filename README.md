@@ -1,3 +1,3 @@
-# Repository for Quantitative Macroeconomics
+# Repository for my GitKraken tests
 In this repository I will test how to use GitKraken. 
-The folder contains examples and codes developed in the lecture.
+The folder contains random files.
